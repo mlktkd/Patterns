@@ -17,5 +17,6 @@ public class Main {
         square.drawShape();
         System.out.println("Square with blue border...");
         blueSquare.drawShape();
+
     }
 }
